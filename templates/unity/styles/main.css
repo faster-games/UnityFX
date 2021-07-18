@@ -57,6 +57,14 @@ article h4 {
 
 .navbar-brand>img {
     color: #fff;
+    max-width: 44px;
+    max-height: 44px;
+}
+
+.navbar-brand>svg {
+    padding: 4px 2px 2px 2px;
+    max-width: 44px;
+    max-height: 44px;
 }
 
 .navbar {
